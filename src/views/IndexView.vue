@@ -7,7 +7,7 @@
 
 		<!-- 导航分类 -->
 		<van-tabs 
-		 sticky offset-top="55" 
+		 sticky offset-top="555" 
 		 v-model:active="active"
 		 title-active-color="#CC3A8C"
 		 title-inactive-color="#666"
@@ -69,6 +69,7 @@
 		}
 	}
 </script>
+
 
 <style lang="less" scoped>
 	.logo{

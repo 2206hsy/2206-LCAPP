@@ -7,7 +7,7 @@
 		<!-- 选项卡切换按钮 -->
 		<van-tabbar 
 		 route 
-		 active-color="#CC3A8C" 
+		 active-color="#555" 
 		 inactive-color="#666"
 		>
 		  <van-tabbar-item
